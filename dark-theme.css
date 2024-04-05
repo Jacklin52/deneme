@@ -1,0 +1,14 @@
+/* dark-theme.css */
+
+#vsc {
+    background-color: #333;
+    color: #fff;
+}
+
+.subText {
+    color: #ccc;
+}
+
+.cornerText {
+    color: #999;
+}

@@ -1,0 +1,14 @@
+/* light-theme.css */
+
+#vsc {
+    background-color: #ededed;
+    color: #000;
+}
+
+.subText {
+    color: #202020;
+}
+
+.cornerText {
+    color: #777;
+}
